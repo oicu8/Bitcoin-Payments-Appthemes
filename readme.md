@@ -7,7 +7,7 @@ Version 1.1.3
 
 **Provides a Bitcoin/Altcoin Payment Gateway for all Appthemes Premium Themes - Classipress, Vantage, JobRoller, Clipper, Taskerr, HireBee, Ideas, Quality Control, etc.**
 
-Accept Bitcoin, BitcoinCash, Litecoin, Dash, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit on Website Online
+Accept Bitcoin, BitcoinCash, Litecoin, Neutron, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit on Website Online
 
 * Author URI: [https://gourl.io](https://gourl.io)
 * Plugin Page: [https://gourl.io/bitcoin-appthemes-classipress-jobroller-vantage-etc.html](https://gourl.io/bitcoin-appthemes-classipress-jobroller-vantage-etc.html)

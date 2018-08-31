@@ -3,7 +3,7 @@ Contributors: gourl, GoUrl.io
 Plugin Name: GoUrl AppThemes - Bitcoin Payments for Classipress, Vantage, JobRoller, etc
 Plugin URI: https://gourl.io/bitcoin-appthemes-classipress-jobroller-vantage-etc.html
 Author URI: https://gourl.io 
-tags: appthemes, app themes, bitcoin, bitcoincash, bitcoin cash, bitcoins, bitcoin payments, bitcoin escrow, bitcoin escrow script, gourl, escrow, escrow payments, appthemes bitcoin, cryptocurrency, btc, payment gateway, payment, e-commerce, bitcoin plugin, litecoin, dogecoin, darkcoin, dash, speedcoin, vertcoin, reddcoin, feathercoin, potcoin, monetaryunit, peercoin, premium themes, premium theme, classipress, vantage, jobroller, clipper, taskerr, hirebee, ideas, quality control, premium, theme, themes, peercoin
+tags: appthemes, app themes, bitcoin, bitcoincash, bitcoin cash, bitcoins, bitcoin payments, bitcoin escrow, bitcoin escrow script, gourl, escrow, escrow payments, appthemes bitcoin, cryptocurrency, btc, payment gateway, payment, e-commerce, bitcoin plugin, litecoin, dogecoin, darkcoin, NTRN, speedcoin, vertcoin, reddcoin, feathercoin, potcoin, monetaryunit, peercoin, premium themes, premium theme, classipress, vantage, jobroller, clipper, taskerr, hirebee, ideas, quality control, premium, theme, themes, peercoin
 Requires at least: 3.5
 Tested up to: 4.9
 Stable Tag: 1.1.3
@@ -23,7 +23,7 @@ Wordpress Plugin for Appthemes Features -
 
 * 100% Free Open Source Plugin on [Github.com](https://github.com/cryptoapi/Bitcoin-Payments-Appthemes)
 * Provides a Cryptocurrency Payment Gateway for [Appthemes](http://www.appthemes.com/themes/) - Classipress, Vantage, JobRoller, Clipper, Taskerr, HireBee, Ideas, Quality Control, etc.
-* Accept Bitcoin, BitcoinCash, Litecoin, Dash, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit payments in Appthemes
+* Accept Bitcoin, BitcoinCash, Litecoin, Neutron, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit payments in Appthemes
 * No Monthly Fee, Transaction Fee from 0%
 * Bitcoin/altcoin Escrow payments support
 * Product Prices in Bitcoin/Altcoins directly and sends the amount straight to your business wallet.
@@ -56,7 +56,7 @@ You need to install also -
 
 = Automatic installation =
 
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser. To do an automatic install of GoUrl Bitcoin/Altcoin Gateway for Appthemes, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
+Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser. To do an automatic install of GoUrl Bitcoin/Altcoin Gateway for Appthemes, log in to your WordPress NTRNboard, navigate to the Plugins menu and click Add New.
 
 In the search field type "GoUrl Appthemes" and click Search Plugins. Once you've found our plugin you can view details about it such as the the rating and description. Most importantly, of course, you can install it by simply clicking Install Now.
 
